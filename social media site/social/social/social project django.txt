@@ -1,0 +1,4 @@
+we will have multiple users
+we can create groups
+we can post in/join leave any group
+we can tag someone using @ symbol 
